@@ -1,5 +1,5 @@
-# python-deployer
-A python deployer for your personal git projects, this time configurable.
+# Python Deployer
+Webhook script that runs your commands for automatic deployment when you push a commit.
 
 Note: Requires Python 3 to work
 
